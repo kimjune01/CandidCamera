@@ -13,6 +13,25 @@
 		0EBFA9F9290118F6007625B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBFA9F7290118F6007625B4 /* Main.storyboard */; };
 		0EBFA9FB290118F8007625B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EBFA9FA290118F8007625B4 /* Assets.xcassets */; };
 		0EBFA9FE290118F8007625B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBFA9FC290118F8007625B4 /* LaunchScreen.storyboard */; };
+		0EBFAA0629011AEF007625B4 /* NextLevelSessionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0529011AEF007625B4 /* NextLevelSessionController.swift */; };
+		0EBFAA1829011CA2007625B4 /* UIScrollView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0829011CA1007625B4 /* UIScrollView+.swift */; };
+		0EBFAA1929011CA2007625B4 /* String+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0929011CA1007625B4 /* String+.swift */; };
+		0EBFAA1A29011CA2007625B4 /* TimeInterval+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0A29011CA1007625B4 /* TimeInterval+.swift */; };
+		0EBFAA1B29011CA2007625B4 /* UIStackView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0B29011CA1007625B4 /* UIStackView+.swift */; };
+		0EBFAA1C29011CA2007625B4 /* UUID+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0C29011CA1007625B4 /* UUID+.swift */; };
+		0EBFAA1D29011CA2007625B4 /* UIButton+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0D29011CA1007625B4 /* UIButton+.swift */; };
+		0EBFAA1E29011CA2007625B4 /* CGAffineTransform+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0E29011CA1007625B4 /* CGAffineTransform+.swift */; };
+		0EBFAA1F29011CA2007625B4 /* Duration+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA0F29011CA1007625B4 /* Duration+.swift */; };
+		0EBFAA2029011CA2007625B4 /* AVAsset+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1029011CA1007625B4 /* AVAsset+.swift */; };
+		0EBFAA2129011CA2007625B4 /* FileManager+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1129011CA1007625B4 /* FileManager+.swift */; };
+		0EBFAA2229011CA2007625B4 /* UIFont+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1229011CA1007625B4 /* UIFont+.swift */; };
+		0EBFAA2329011CA2007625B4 /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1329011CA1007625B4 /* UIView+.swift */; };
+		0EBFAA2429011CA2007625B4 /* UIImage+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1429011CA1007625B4 /* UIImage+.swift */; };
+		0EBFAA2529011CA2007625B4 /* UIViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1529011CA1007625B4 /* UIViewController+.swift */; };
+		0EBFAA2629011CA2007625B4 /* Date+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1629011CA1007625B4 /* Date+.swift */; };
+		0EBFAA2729011CA2007625B4 /* UILabel+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA1729011CA2007625B4 /* UILabel+.swift */; };
+		0EBFAA2929012E73007625B4 /* PromptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBFAA2829012E73007625B4 /* PromptViewController.swift */; };
+		EE8967DF0AA56664FD986B6E /* Pods_CandidCamera.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA802B5BDC119A92B776397A /* Pods_CandidCamera.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,27 @@
 		0EBFA9FA290118F8007625B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EBFA9FD290118F8007625B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EBFA9FF290118F8007625B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EBFAA0529011AEF007625B4 /* NextLevelSessionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextLevelSessionController.swift; sourceTree = "<group>"; };
+		0EBFAA0829011CA1007625B4 /* UIScrollView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScrollView+.swift"; sourceTree = "<group>"; };
+		0EBFAA0929011CA1007625B4 /* String+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+.swift"; sourceTree = "<group>"; };
+		0EBFAA0A29011CA1007625B4 /* TimeInterval+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TimeInterval+.swift"; sourceTree = "<group>"; };
+		0EBFAA0B29011CA1007625B4 /* UIStackView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStackView+.swift"; sourceTree = "<group>"; };
+		0EBFAA0C29011CA1007625B4 /* UUID+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UUID+.swift"; sourceTree = "<group>"; };
+		0EBFAA0D29011CA1007625B4 /* UIButton+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+.swift"; sourceTree = "<group>"; };
+		0EBFAA0E29011CA1007625B4 /* CGAffineTransform+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CGAffineTransform+.swift"; sourceTree = "<group>"; };
+		0EBFAA0F29011CA1007625B4 /* Duration+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Duration+.swift"; sourceTree = "<group>"; };
+		0EBFAA1029011CA1007625B4 /* AVAsset+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVAsset+.swift"; sourceTree = "<group>"; };
+		0EBFAA1129011CA1007625B4 /* FileManager+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FileManager+.swift"; sourceTree = "<group>"; };
+		0EBFAA1229011CA1007625B4 /* UIFont+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+.swift"; sourceTree = "<group>"; };
+		0EBFAA1329011CA1007625B4 /* UIView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
+		0EBFAA1429011CA1007625B4 /* UIImage+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+.swift"; sourceTree = "<group>"; };
+		0EBFAA1529011CA1007625B4 /* UIViewController+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+.swift"; sourceTree = "<group>"; };
+		0EBFAA1629011CA1007625B4 /* Date+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+.swift"; sourceTree = "<group>"; };
+		0EBFAA1729011CA2007625B4 /* UILabel+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILabel+.swift"; sourceTree = "<group>"; };
+		0EBFAA2829012E73007625B4 /* PromptViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromptViewController.swift; sourceTree = "<group>"; };
+		541F8295E71A9BB02675FC3C /* Pods-CandidCamera.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CandidCamera.debug.xcconfig"; path = "Target Support Files/Pods-CandidCamera/Pods-CandidCamera.debug.xcconfig"; sourceTree = "<group>"; };
+		BA802B5BDC119A92B776397A /* Pods_CandidCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CandidCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC1235D2A75485A6D7ADC722 /* Pods-CandidCamera.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CandidCamera.release.xcconfig"; path = "Target Support Files/Pods-CandidCamera/Pods-CandidCamera.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE8967DF0AA56664FD986B6E /* Pods_CandidCamera.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +83,8 @@
 			children = (
 				0EBFA9F0290118F6007625B4 /* CandidCamera */,
 				0EBFA9EF290118F6007625B4 /* Products */,
+				7A0FB5EC646FE5BC020DB408 /* Pods */,
+				10D8A61E64D7820CD569CE8D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,12 +102,55 @@
 				0EBFA9F1290118F6007625B4 /* AppDelegate.swift */,
 				0EBFA9F3290118F6007625B4 /* SceneDelegate.swift */,
 				0EBFA9F5290118F6007625B4 /* ViewController.swift */,
+				0EBFAA2829012E73007625B4 /* PromptViewController.swift */,
+				0EBFAA0529011AEF007625B4 /* NextLevelSessionController.swift */,
+				0EBFAA0729011C8F007625B4 /* Extensions */,
 				0EBFA9F7290118F6007625B4 /* Main.storyboard */,
 				0EBFA9FA290118F8007625B4 /* Assets.xcassets */,
 				0EBFA9FC290118F8007625B4 /* LaunchScreen.storyboard */,
 				0EBFA9FF290118F8007625B4 /* Info.plist */,
 			);
 			path = CandidCamera;
+			sourceTree = "<group>";
+		};
+		0EBFAA0729011C8F007625B4 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				0EBFAA1029011CA1007625B4 /* AVAsset+.swift */,
+				0EBFAA0E29011CA1007625B4 /* CGAffineTransform+.swift */,
+				0EBFAA1629011CA1007625B4 /* Date+.swift */,
+				0EBFAA0F29011CA1007625B4 /* Duration+.swift */,
+				0EBFAA1129011CA1007625B4 /* FileManager+.swift */,
+				0EBFAA0929011CA1007625B4 /* String+.swift */,
+				0EBFAA0A29011CA1007625B4 /* TimeInterval+.swift */,
+				0EBFAA0D29011CA1007625B4 /* UIButton+.swift */,
+				0EBFAA1229011CA1007625B4 /* UIFont+.swift */,
+				0EBFAA1429011CA1007625B4 /* UIImage+.swift */,
+				0EBFAA1729011CA2007625B4 /* UILabel+.swift */,
+				0EBFAA0829011CA1007625B4 /* UIScrollView+.swift */,
+				0EBFAA0B29011CA1007625B4 /* UIStackView+.swift */,
+				0EBFAA1329011CA1007625B4 /* UIView+.swift */,
+				0EBFAA1529011CA1007625B4 /* UIViewController+.swift */,
+				0EBFAA0C29011CA1007625B4 /* UUID+.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		10D8A61E64D7820CD569CE8D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BA802B5BDC119A92B776397A /* Pods_CandidCamera.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7A0FB5EC646FE5BC020DB408 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				541F8295E71A9BB02675FC3C /* Pods-CandidCamera.debug.xcconfig */,
+				BC1235D2A75485A6D7ADC722 /* Pods-CandidCamera.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +160,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0EBFAA02290118F8007625B4 /* Build configuration list for PBXNativeTarget "CandidCamera" */;
 			buildPhases = (
+				5EE9B9F653B8FE215F84FDBC /* [CP] Check Pods Manifest.lock */,
 				0EBFA9EA290118F6007625B4 /* Sources */,
 				0EBFA9EB290118F6007625B4 /* Frameworks */,
 				0EBFA9EC290118F6007625B4 /* Resources */,
+				4567329613FF7F52432BB3F4 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -133,14 +221,74 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4567329613FF7F52432BB3F4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CandidCamera/Pods-CandidCamera-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CandidCamera/Pods-CandidCamera-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CandidCamera/Pods-CandidCamera-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5EE9B9F653B8FE215F84FDBC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CandidCamera-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0EBFA9EA290118F6007625B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EBFAA0629011AEF007625B4 /* NextLevelSessionController.swift in Sources */,
 				0EBFA9F6290118F6007625B4 /* ViewController.swift in Sources */,
+				0EBFAA2729011CA2007625B4 /* UILabel+.swift in Sources */,
+				0EBFAA1A29011CA2007625B4 /* TimeInterval+.swift in Sources */,
+				0EBFAA2429011CA2007625B4 /* UIImage+.swift in Sources */,
+				0EBFAA2129011CA2007625B4 /* FileManager+.swift in Sources */,
+				0EBFAA2029011CA2007625B4 /* AVAsset+.swift in Sources */,
+				0EBFAA1F29011CA2007625B4 /* Duration+.swift in Sources */,
+				0EBFAA1829011CA2007625B4 /* UIScrollView+.swift in Sources */,
+				0EBFAA2229011CA2007625B4 /* UIFont+.swift in Sources */,
 				0EBFA9F2290118F6007625B4 /* AppDelegate.swift in Sources */,
+				0EBFAA1929011CA2007625B4 /* String+.swift in Sources */,
+				0EBFAA2929012E73007625B4 /* PromptViewController.swift in Sources */,
 				0EBFA9F4290118F6007625B4 /* SceneDelegate.swift in Sources */,
+				0EBFAA2629011CA2007625B4 /* Date+.swift in Sources */,
+				0EBFAA1B29011CA2007625B4 /* UIStackView+.swift in Sources */,
+				0EBFAA2329011CA2007625B4 /* UIView+.swift in Sources */,
+				0EBFAA2529011CA2007625B4 /* UIViewController+.swift in Sources */,
+				0EBFAA1E29011CA2007625B4 /* CGAffineTransform+.swift in Sources */,
+				0EBFAA1C29011CA2007625B4 /* UUID+.swift in Sources */,
+				0EBFAA1D29011CA2007625B4 /* UIButton+.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +430,7 @@
 		};
 		0EBFAA03290118F8007625B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 541F8295E71A9BB02675FC3C /* Pods-CandidCamera.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -290,9 +439,13 @@
 				DEVELOPMENT_TEAM = 59SVXWFZ98;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CandidCamera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Candid Camera needs permission to access the camera to record videos.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Candid Camera needs permission to record audio for recording videos.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Candid Camera needs access to the photo library so that it can save the recorded video.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -310,6 +463,7 @@
 		};
 		0EBFAA04290118F8007625B4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1235D2A75485A6D7ADC722 /* Pods-CandidCamera.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -318,9 +472,13 @@
 				DEVELOPMENT_TEAM = 59SVXWFZ98;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CandidCamera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Candid Camera needs permission to access the camera to record videos.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Candid Camera needs permission to record audio for recording videos.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Candid Camera needs access to the photo library so that it can save the recorded video.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
